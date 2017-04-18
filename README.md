@@ -12,7 +12,7 @@
 4. Run the following script: 
 
 ```bash
-curl -L https://github.com/tomkysar/gogopwned/setup.sh | sudo bash
+curl -L https://raw.githubusercontent.com/tomkysar/gogopwned/master/setup.sh | sudo bash
 ```
 
 5. Once completed, scp the `client1.ovpn` file off your server to your device:
